@@ -5,4 +5,5 @@ This is a simple Python script that allows two players to play the classic game 
 ## A heartbreaking truth
 
 That's my first try of creating a GitHub repository and to be honest i have ✨no idea✨ about what i'm doing. 
-thanx and slay mercifully
+
+thx in advance and slay mercifully 🙏🏻
